@@ -1,0 +1,38 @@
+.navbar{
+    display: inline-block;
+
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar li a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 23px 10px;
+}
+.left img{
+    width: 70px;
+}
+.btn{
+    cursor: pointer;
+}
+
+.container{
+    border: 2px solid rgb(227, 227, 227);
+    width: 384px;
+    margin: 283px 30px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.form{
+    /* border: 2px solid white; */
+    width: 411px;
+    margin: 50px 70px;
+    padding:35px;
+    text-align: center;
+    
+}
+.button{
+    cursor: pointer;
+
+}
